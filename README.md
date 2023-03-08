@@ -1,6 +1,6 @@
 # Introduction to Research Methods
 ## Abstract
-Blablabla \\
+Blablabla \
 blabla
 bla
 
